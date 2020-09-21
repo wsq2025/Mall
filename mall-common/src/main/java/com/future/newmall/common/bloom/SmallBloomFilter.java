@@ -5,6 +5,8 @@ import java.util.BitSet;
 /**
  * @author wsq
  * @date 2020/9/21  22:18
+ *
+ * 自定义简单版布隆过滤器
  */
 public class SmallBloomFilter {
     /**
