@@ -14,7 +14,7 @@ spring:
           predicates:
             - Query=url,qq
 
-        ##商品服务
+        ##商品服务相关
         - id: product_route
           uri: lb://mall-product
           predicates:
